@@ -1,6 +1,6 @@
 <?php
 
-namespace Joedixon\NovaTranslation;
+namespace RelishInc\NovaTranslation;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Events\ServingNova;
