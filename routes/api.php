@@ -2,8 +2,8 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
-use Joedixon\NovaTranslation\Http\Controllers\LanguageController;
-use Joedixon\NovaTranslation\Http\Controllers\LanguageTranslationController;
+use RelishInc\NovaTranslation\Http\Controllers\LanguageController;
+use RelishInc\NovaTranslation\Http\Controllers\LanguageTranslationController;
 
 /*
 |--------------------------------------------------------------------------
