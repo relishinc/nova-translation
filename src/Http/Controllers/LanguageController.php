@@ -1,10 +1,10 @@
 <?php
 
-namespace Joedixon\NovaTranslation\Http\Controllers;
+namespace RelishInc\NovaTranslation\Http\Controllers;
 
 use Illuminate\Routing\Controller;
-use JoeDixon\Translation\Drivers\Translation;
-use JoeDixon\Translation\Http\Requests\LanguageRequest;
+use RelishInc\Translation\Drivers\Translation;
+use RelishInc\Translation\Http\Requests\LanguageRequest;
 
 class LanguageController extends Controller
 {
