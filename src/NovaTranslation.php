@@ -1,6 +1,6 @@
 <?php
 
-namespace Joedixon\NovaTranslation;
+namespace RelishInc\NovaTranslation;
 
 use Illuminate\Http\Request;
 use Laravel\Nova\Nova;
