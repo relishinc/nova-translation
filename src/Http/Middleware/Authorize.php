@@ -1,8 +1,8 @@
 <?php
 
-namespace Joedixon\NovaTranslation\Http\Middleware;
+namespace RelishInc\NovaTranslation\Http\Middleware;
 
-use Joedixon\NovaTranslation\NovaTranslation;
+use RelishInc\NovaTranslation\NovaTranslation;
 
 class Authorize
 {
